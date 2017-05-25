@@ -1,0 +1,550 @@
+0000.002 (0) Opened log file at time: Sun, 23 Apr 2017 13:54:45 +0000 on http://thynkbeauty.com
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.6.27 (cgi-fcgi, Linux a2nlwpweb078.prod.iad2.secureserver.net 2.6.32-673.8.1.lve1.4.3.1.el6.nfsfixes.x86_64 #1 SMP Mon Aug 1 16:12:26 MST 2016 x86_64) MySQL: 5.6.32 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.3M | 15.5M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 340266544 MB
+0000.031 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.326 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.331 (0) Semaphore (fd, wp_bf1z1za98r_options) was stuck, set lock time to 2017-04-23 13:54:45
+0000.334 (0) Semaphore (fd, wp_bf1z1za98r_options) reset to 1
+0000.336 (0) Set semaphore last lock (fd) time to 2017-04-23 13:54:45
+0000.339 (0) Semaphore lock (fd) complete
+0000.348 (0) Backup run: resumption=0, nonce=bcc5d4f6fd5f, begun at=1492955685 (0s ago), job type=backup
+0000.361 (0) Scheduling a resumption (1) after 300 seconds (1492955985) in case this run gets aborted
+0000.426 (0) Checking if we have a zip executable available
+0000.429 (0) Testing: /usr/bin/zip
+0000.445 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.460 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.462 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.464 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.466 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.481 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.487 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.517 (0) Working binary zip found: /usr/bin/zip
+0000.521 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.523 (0) Creation of backups of directories: beginning
+0000.541 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0096.940 (0) Total entities for the zip file: 574 directories, 4423 files (0 skipped as non-modified), 75.5 MB
+0096.943 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0097.122 (0) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: size is now: 0.10 MB
+0097.227 (0) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 100 files added (on-disk size: 125.4 KB)
+0097.319 (0) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 200 files added (on-disk size: 125.4 KB)
+0097.414 (0) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 300 files added (on-disk size: 125.4 KB)
+0097.517 (0) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 400 files added (on-disk size: 125.4 KB)
+0097.623 (0) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 500 files added (on-disk size: 125.4 KB)
+0097.627 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.5 MB, 4423 files batched, 501 (502) added so far); re-opening (prior size: 125.4 KB)
+10252.943 (1) Opened log file at time: Sun, 23 Apr 2017 16:45:38 +0000 on http://thynkbeauty.com
+10252.945 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.6.27 (cli, Linux a2nlwpcron017.prod.iad2.secureserver.net 2.6.32-673.8.1.lve1.4.3.1.el6.nfsfixes.x86_64 #1 SMP Mon Aug 1 16:12:26 MST 2016 x86_64) MySQL: 5.6.32 WPLANG: en_US Server:  safe_mode: 0 max_execution_time: 900 memory_limit: -1 (used: 71.3M | 75.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+10252.951 (1) Free space on disk containing Updraft's temporary directory: 339748257 MB
+10252.955 (1) Backup run: resumption=1, nonce=bcc5d4f6fd5f, begun at=1492955685 (10253s ago), job type=backup, previous check-in=127.6s
+10252.957 (1) Long time past since expected resumption time: approx expected=1492956113.4, now=1492965937.8, diff=9824.5
+10252.961 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+10252.965 (1) Scheduling a resumption (2) after 300 seconds (1492966238) in case this run gets aborted
+10252.978 (1) Checking if we have a zip executable available
+10252.980 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+10252.982 (1) Creation of backups of directories: had begun; will resume
+10253.062 (1) Beginning creation of dump of plugins (split every: 400 MB)
+10255.001 (1) File exists (/home/content/a2pewpnas01_data03/06/3907106/html/wp-content/updraft/backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1492955818, time_now=1492965938, diff=10120)
+10255.854 (1) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: Zip file already exists, with 502 files
+10357.659 (1) Total entities for the zip file: 578 directories, 4433 files (0 skipped as non-modified), 75.5 MB
+10357.683 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 100 files added (on-disk size: 5889.9 KB)
+10357.718 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 200 files added (on-disk size: 5889.9 KB)
+10357.743 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 300 files added (on-disk size: 5889.9 KB)
+10357.765 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 400 files added (on-disk size: 5889.9 KB)
+10357.787 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 500 files added (on-disk size: 5889.9 KB)
+10357.888 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 600 files added (on-disk size: 5889.9 KB)
+10358.000 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 700 files added (on-disk size: 5889.9 KB)
+10358.101 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 800 files added (on-disk size: 5889.9 KB)
+10358.203 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 900 files added (on-disk size: 5889.9 KB)
+10358.301 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1000 files added (on-disk size: 5889.9 KB)
+10358.306 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.7 MB, 4433 files batched, 501 (501) added so far); re-opening (prior size: 5889.9 KB)
+10399.926 (1) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: size is now: 7.00 MB
+10400.021 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1100 files added (on-disk size: 7122.2 KB)
+10400.130 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1200 files added (on-disk size: 7122.2 KB)
+10400.233 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1300 files added (on-disk size: 7122.2 KB)
+10400.333 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1400 files added (on-disk size: 7122.2 KB)
+10400.456 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1500 files added (on-disk size: 7122.2 KB)
+10400.463 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.2 MB, 4433 files batched, 501 (1002) added so far); re-opening (prior size: 7122.2 KB)
+10418.311 (1) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: size is now: 8.50 MB
+10418.443 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1600 files added (on-disk size: 8680.8 KB)
+10418.549 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1700 files added (on-disk size: 8680.8 KB)
+10418.650 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1800 files added (on-disk size: 8680.8 KB)
+10418.750 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1900 files added (on-disk size: 8680.8 KB)
+10418.850 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2000 files added (on-disk size: 8680.8 KB)
+10418.857 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.7 MB, 4433 files batched, 501 (1503) added so far); re-opening (prior size: 8680.8 KB)
+10453.858 (1) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: size is now: 12.10 MB
+10453.957 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2100 files added (on-disk size: 12407.2 KB)
+10454.067 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2200 files added (on-disk size: 12407.2 KB)
+10454.174 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2300 files added (on-disk size: 12407.2 KB)
+10454.276 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2400 files added (on-disk size: 12407.2 KB)
+10454.379 (1) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2500 files added (on-disk size: 12407.2 KB)
+10454.387 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 4433 files batched, 501 (2004) added so far); re-opening (prior size: 12407.2 KB)
+30816.530 (2) Opened log file at time: Sun, 23 Apr 2017 22:28:21 +0000 on http://thynkbeauty.com
+30816.533 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.6.27 (cli, Linux a2nlwpcron017.prod.iad2.secureserver.net 2.6.32-673.8.1.lve1.4.3.1.el6.nfsfixes.x86_64 #1 SMP Mon Aug 1 16:12:26 MST 2016 x86_64) MySQL: 5.6.32 WPLANG: en_US Server:  safe_mode: 0 max_execution_time: 900 memory_limit: -1 (used: 71.3M | 75.5M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+30816.538 (2) Free space on disk containing Updraft's temporary directory: 338689978 MB
+30816.541 (2) Backup run: resumption=2, nonce=bcc5d4f6fd5f, begun at=1492955685 (30816s ago), job type=backup, previous check-in=218.6s
+30816.543 (2) Long time past since expected resumption time: approx expected=1492966456.5, now=1492986501.6, diff=20045.2
+30816.545 (2) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+30816.548 (2) Scheduling a resumption (3) after 300 seconds (1492986801) in case this run gets aborted
+30816.561 (2) Checking if we have a zip executable available
+30816.562 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+30816.564 (2) Creation of backups of directories: had begun; will resume
+30816.903 (2) Beginning creation of dump of plugins (split every: 400 MB)
+30816.917 (2) Deleting old temporary file: ziIVJCAG
+30818.213 (2) File exists (/home/content/a2pewpnas01_data03/06/3907106/html/wp-content/updraft/backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1492966139, time_now=1492986502, diff=20363)
+30818.356 (2) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: Zip file already exists, with 2005 files
+30886.726 (2) Total entities for the zip file: 578 directories, 4433 files (0 skipped as non-modified), 75.5 MB
+30886.752 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 100 files added (on-disk size: 12407.2 KB)
+30886.796 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 200 files added (on-disk size: 12407.2 KB)
+30886.820 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 300 files added (on-disk size: 12407.2 KB)
+30886.844 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 400 files added (on-disk size: 12407.2 KB)
+30886.867 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 500 files added (on-disk size: 12407.2 KB)
+30886.894 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 600 files added (on-disk size: 12407.2 KB)
+30886.920 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 700 files added (on-disk size: 12407.2 KB)
+30886.947 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 800 files added (on-disk size: 12407.2 KB)
+30886.972 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 900 files added (on-disk size: 12407.2 KB)
+30886.994 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1000 files added (on-disk size: 12407.2 KB)
+30887.018 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1100 files added (on-disk size: 12407.2 KB)
+30887.042 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1200 files added (on-disk size: 12407.2 KB)
+30887.067 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1300 files added (on-disk size: 12407.2 KB)
+30887.090 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1400 files added (on-disk size: 12407.2 KB)
+30887.115 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1500 files added (on-disk size: 12407.2 KB)
+30887.138 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1600 files added (on-disk size: 12407.2 KB)
+30887.161 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1700 files added (on-disk size: 12407.2 KB)
+30887.182 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1800 files added (on-disk size: 12407.2 KB)
+30887.208 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 1900 files added (on-disk size: 12407.2 KB)
+30887.230 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2000 files added (on-disk size: 12407.2 KB)
+30887.324 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2100 files added (on-disk size: 12407.2 KB)
+30887.421 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2200 files added (on-disk size: 12407.2 KB)
+30887.518 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2300 files added (on-disk size: 12407.2 KB)
+30887.619 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2400 files added (on-disk size: 12407.2 KB)
+30887.734 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2500 files added (on-disk size: 12407.2 KB)
+30887.744 (2) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 4433 files batched, 501 (501) added so far); re-opening (prior size: 12407.2 KB)
+30916.955 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2600 files added (on-disk size: 13643.3 KB)
+30917.047 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2700 files added (on-disk size: 13643.3 KB)
+30917.137 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2800 files added (on-disk size: 13643.3 KB)
+30917.228 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 2900 files added (on-disk size: 13643.3 KB)
+30917.333 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3000 files added (on-disk size: 13643.3 KB)
+30917.342 (2) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.2 MB, 4433 files batched, 501 (1002) added so far); re-opening (prior size: 13643.3 KB)
+30952.257 (2) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: size is now: 17.70 MB
+30952.345 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3100 files added (on-disk size: 18157.4 KB)
+30952.444 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3200 files added (on-disk size: 18157.4 KB)
+30952.542 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3300 files added (on-disk size: 18157.4 KB)
+30952.643 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3400 files added (on-disk size: 18157.4 KB)
+30952.756 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3500 files added (on-disk size: 18157.4 KB)
+30952.765 (2) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.5 MB, 4433 files batched, 501 (1503) added so far); re-opening (prior size: 18157.4 KB)
+30991.072 (2) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: size is now: 22.20 MB
+30991.173 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3600 files added (on-disk size: 22757 KB)
+30991.271 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3700 files added (on-disk size: 22757 KB)
+30991.374 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3800 files added (on-disk size: 22757 KB)
+30991.471 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 3900 files added (on-disk size: 22757 KB)
+30991.576 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 4000 files added (on-disk size: 22757 KB)
+30991.590 (2) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 MB, 4433 files batched, 501 (2004) added so far); re-opening (prior size: 22757 KB)
+31024.866 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 4100 files added (on-disk size: 24819.9 KB)
+31024.980 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 4200 files added (on-disk size: 24819.9 KB)
+31025.093 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 4300 files added (on-disk size: 24819.9 KB)
+31025.200 (2) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip.tmp: 4400 files added (on-disk size: 24819.9 KB)
+31051.050 (2) Created plugins zip (0) - 25906.7 KB in 232.8 s (111.3 KB/s) (sha1: b34f1b644a4dcd05877d0b2604666b7a79a96bdf, sha256: 5704baaabaed8f0bd25f667f8927727893b56b496ed4f629f7415fcd0ce4a77c)
+31051.056 (2) Beginning creation of dump of themes (split every: 400 MB)
+55921.269 (3) Opened log file at time: Mon, 24 Apr 2017 05:26:46 +0000 on http://thynkbeauty.com
+55921.272 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.6.27 (cli, Linux a2nlwpcron015.prod.iad2.secureserver.net 2.6.32-604.30.3.lve1.3.63.el6.nfsfixes.x86_64 #1 SMP Mon Oct 26 11:56:49 MST 2015 x86_64) MySQL: 5.6.32 WPLANG: en_US Server:  safe_mode: 0 max_execution_time: 900 memory_limit: -1 (used: 71.7M | 75.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+55921.292 (3) Free space on disk containing Updraft's temporary directory: 337783564.5 MB
+55921.297 (3) Backup run: resumption=3, nonce=bcc5d4f6fd5f, begun at=1492955685 (55921s ago), job type=backup, previous check-in=234.2s
+55921.300 (3) Long time past since expected resumption time: approx expected=1492987035.8, now=1493011606.4, diff=24570.6
+55921.302 (3) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+55921.307 (3) Scheduling a resumption (4) after 300 seconds (1493011906) in case this run gets aborted
+55921.376 (3) Checking if we have a zip executable available
+55921.378 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+55921.380 (3) Creation of backups of directories: had begun; will resume
+55921.487 (3) Beginning creation of dump of plugins (split every: 400 MB)
+55921.489 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip: this file has already been created (age: 24870 s)
+55923.301 (3) Beginning creation of dump of themes (split every: 400 MB)
+55951.653 (3) Total entities for the zip file: 182 directories, 943 files (0 skipped as non-modified), 14.5 MB
+55952.035 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+55952.212 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: size is now: 0.00 MB
+55954.242 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 100 files added (on-disk size: 38.1 KB)
+55954.573 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (2.2 MB, 116 (117) files added so far); re-opening (prior size: 38.1 KB)
+55965.733 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: size is now: 1.60 MB
+55967.854 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 200 files added (on-disk size: 1657.9 KB)
+55968.574 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (1.1 MB, 103 (220) files added so far); re-opening (prior size: 1657.9 KB)
+55977.789 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: size is now: 2.20 MB
+55979.820 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 300 files added (on-disk size: 2255.8 KB)
+55980.616 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (1.8 MB, 111 (331) files added so far); re-opening (prior size: 2255.8 KB)
+55988.588 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: size is now: 3.00 MB
+55989.828 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 400 files added (on-disk size: 3113.1 KB)
+55991.386 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 500 files added (on-disk size: 3113.1 KB)
+55991.571 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (4.3 MB, 189 (520) files added so far); re-opening (prior size: 3113.1 KB)
+56006.783 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: size is now: 4.60 MB
+56007.413 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 600 files added (on-disk size: 4692.5 KB)
+56008.547 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 700 files added (on-disk size: 4692.5 KB)
+56009.027 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 800 files added (on-disk size: 4692.5 KB)
+56009.143 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: 900 files added (on-disk size: 4692.5 KB)
+56052.373 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip.tmp: size is now: 7.20 MB
+56052.861 (3) Created themes zip (0) - 7357.3 KB in 129.5 s (56.8 KB/s) (sha1: 4efd1db4e91f57809e0b5bf336f64cd5355ded22, sha256: 8486a6db08bbfbb8d7d08ace8c93353f9fb31e313f01347902b6f840a03f149b)
+56053.053 (3) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+56053.056 (3) Looking for candidates to back up in: /home/content/a2pewpnas01_data03/06/3907106/html/wp-content/uploads
+56053.201 (3) finding files: 2017: adding to list (1)
+56053.204 (3) finding files: wc-logs: adding to list (2)
+56053.206 (3) finding files: redux: adding to list (3)
+56053.208 (3) finding files: woocommerce_uploads: adding to list (4)
+56053.210 (3) finding files: useanyfont: adding to list (5)
+56053.212 (3) Beginning creation of dump of uploads (split every: 400 MB)
+56057.298 (3) Total entities for the zip file: 8 directories, 137 files (0 skipped as non-modified), 4.2 MB
+56057.584 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+56058.188 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip.tmp: size is now: 0.00 MB
+56060.124 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip.tmp: 100 files added (on-disk size: 34.3 KB)
+56060.569 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (4.1 MB, 126 (127) files added so far); re-opening (prior size: 34.3 KB)
+56083.846 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip.tmp: size is now: 4.20 MB
+56085.202 (3) Created uploads zip (0) - 4290.4 KB in 31.6 s (135.6 KB/s) (sha1: 65f4214b5d4f0f5fe80efaed121cc32bef5376eb, sha256: 7ea314c0141925c655eee6a37a94cb0d398b7cc3e97d0f78e08908294ce498ec)
+56085.258 (3) Beginning backup of other directories found in the content directory (index: 0)
+56085.260 (3) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+56085.262 (3) Looking for candidates to back up in: /home/content/a2pewpnas01_data03/06/3907106/html/wp-content
+56085.305 (3) finding files: updraft: skipping: this is the updraft directory
+56085.307 (3) finding files: mu-plugins: adding to list (1)
+56085.309 (3) finding files: object-cache.php: adding to list (2)
+56085.312 (3) finding files: index.php: adding to list (3)
+56085.315 (3) finding files: themes: skipping: this is the themes directory
+56085.317 (3) finding files: upgrade: skipping: excluded by options
+56085.319 (3) finding files: plugins: skipping: this is the plugins directory
+56085.321 (3) finding files: languages: adding to list (4)
+56085.324 (3) finding files: uploads: skipping: this is the uploads directory
+56094.127 (3) Total entities for the zip file: 42 directories, 375 files (0 skipped as non-modified), 3.8 MB
+56094.156 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+56094.371 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: size is now: 0.00 MB
+56096.286 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: 100 files added (on-disk size: 9.9 KB)
+56096.660 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0.5 MB, 104 (105) files added so far); re-opening (prior size: 9.9 KB)
+56107.117 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: size is now: 0.20 MB
+56109.665 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (1.5 MB, 63 (168) files added so far); re-opening (prior size: 220.3 KB)
+56116.066 (3) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: size is now: 0.90 MB
+56117.177 (3) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: 200 files added (on-disk size: 966.5 KB)
+76049.753 (4) Opened log file at time: Mon, 24 Apr 2017 11:02:15 +0000 on http://thynkbeauty.com
+76050.027 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.6.27 (cli, Linux a2nlwpcron014.prod.iad2.secureserver.net 2.6.32-604.30.3.lve1.3.63.el6.nfsfixes.x86_64 #1 SMP Mon Oct 26 11:56:49 MST 2015 x86_64) MySQL: 5.6.32 WPLANG: en_US Server:  safe_mode: 0 max_execution_time: 900 memory_limit: -1 (used: 71.3M | 75.5M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+76050.101 (4) Free space on disk containing Updraft's temporary directory: 337235506 MB
+76050.108 (4) Backup run: resumption=4, nonce=bcc5d4f6fd5f, begun at=1492955685 (76050s ago), job type=backup, previous check-in=194.8s
+76050.110 (4) Long time past since expected resumption time: approx expected=1493012101.2, now=1493031734.6, diff=19633.4
+76050.112 (4) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+76050.117 (4) Scheduling a resumption (5) after 300 seconds (1493032035) in case this run gets aborted
+76050.487 (4) Checking if we have a zip executable available
+76050.489 (4) Zip engine: found/will use a binary zip: /usr/bin/zip
+76050.491 (4) Creation of backups of directories: had begun; will resume
+76051.256 (4) Beginning creation of dump of plugins (split every: 400 MB)
+76051.259 (4) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip: this file has already been created (age: 45000 s)
+76055.192 (4) Beginning creation of dump of themes (split every: 400 MB)
+76055.195 (4) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip: this file has already been created (age: 20003 s)
+76057.064 (4) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+76057.066 (4) Looking for candidates to back up in: /home/content/a2pewpnas01_data03/06/3907106/html/wp-content/uploads
+76057.221 (4) finding files: 2017: adding to list (1)
+76057.224 (4) finding files: wc-logs: adding to list (2)
+76057.226 (4) finding files: redux: adding to list (3)
+76057.228 (4) finding files: woocommerce_uploads: adding to list (4)
+76057.230 (4) finding files: useanyfont: adding to list (5)
+76057.232 (4) Beginning creation of dump of uploads (split every: 400 MB)
+76057.234 (4) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip: this file has already been created (age: 19972 s)
+76057.606 (4) Beginning backup of other directories found in the content directory (index: 0)
+76057.609 (4) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+76057.611 (4) Looking for candidates to back up in: /home/content/a2pewpnas01_data03/06/3907106/html/wp-content
+76058.168 (4) finding files: updraft: skipping: this is the updraft directory
+76058.171 (4) finding files: mu-plugins: adding to list (1)
+76058.173 (4) finding files: object-cache.php: adding to list (2)
+76058.175 (4) finding files: index.php: adding to list (3)
+76058.177 (4) finding files: themes: skipping: this is the themes directory
+76058.180 (4) finding files: upgrade: skipping: excluded by options
+76058.182 (4) finding files: plugins: skipping: this is the plugins directory
+76058.184 (4) finding files: languages: adding to list (4)
+76058.187 (4) finding files: uploads: skipping: this is the uploads directory
+76058.392 (4) File exists (/home/content/a2pewpnas01_data03/06/3907106/html/wp-content/updraft/backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1493011803, time_now=1493031743, diff=19940)
+76059.458 (4) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: Zip file already exists, with 168 files
+76084.833 (4) Total entities for the zip file: 42 directories, 375 files (0 skipped as non-modified), 3.8 MB
+94909.438 (5) Opened log file at time: Mon, 24 Apr 2017 16:16:34 +0000 on http://thynkbeauty.com
+94909.441 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.4 PHP: 5.6.27 (cli, Linux a2nlwpcron014.prod.iad2.secureserver.net 2.6.32-604.30.3.lve1.3.63.el6.nfsfixes.x86_64 #1 SMP Mon Oct 26 11:56:49 MST 2015 x86_64) MySQL: 5.6.32 WPLANG: en_US Server:  safe_mode: 0 max_execution_time: 900 memory_limit: -1 (used: 71.7M | 75.5M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+94909.447 (5) Free space on disk containing Updraft's temporary directory: 336511379.5 MB
+94909.453 (5) Backup run: resumption=5, nonce=bcc5d4f6fd5f, begun at=1492955685 (94909s ago), job type=backup
+94909.455 (5) Long time past since expected resumption time: approx expected=1493032034.6, now=1493050594.8, diff=18560.2
+94909.458 (5) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+94909.462 (5) Scheduling a resumption (6) after 300 seconds (1493050894) in case this run gets aborted
+94909.488 (5) Checking if we have a zip executable available
+94909.491 (5) Zip engine: found/will use a binary zip: /usr/bin/zip
+94909.493 (5) Creation of backups of directories: had begun; will resume
+94909.495 (5) No check-in was detected on the previous run - as a result, we are reducing the batch amount (old=26214400, new=20971520)
+94909.580 (5) Beginning creation of dump of plugins (split every: 400 MB)
+94909.582 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip: this file has already been created (age: 63859 s)
+94909.952 (5) Beginning creation of dump of themes (split every: 400 MB)
+94909.954 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip: this file has already been created (age: 38858 s)
+94909.970 (5) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+94909.972 (5) Looking for candidates to back up in: /home/content/a2pewpnas01_data03/06/3907106/html/wp-content/uploads
+94909.999 (5) finding files: 2017: adding to list (1)
+94910.002 (5) finding files: wc-logs: adding to list (2)
+94910.004 (5) finding files: redux: adding to list (3)
+94910.005 (5) finding files: woocommerce_uploads: adding to list (4)
+94910.007 (5) finding files: useanyfont: adding to list (5)
+94910.009 (5) Beginning creation of dump of uploads (split every: 400 MB)
+94910.011 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip: this file has already been created (age: 38825 s)
+94910.026 (5) Beginning backup of other directories found in the content directory (index: 0)
+94910.028 (5) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+94910.030 (5) Looking for candidates to back up in: /home/content/a2pewpnas01_data03/06/3907106/html/wp-content
+94910.048 (5) finding files: updraft: skipping: this is the updraft directory
+94910.051 (5) finding files: mu-plugins: adding to list (1)
+94910.053 (5) finding files: object-cache.php: adding to list (2)
+94910.055 (5) finding files: index.php: adding to list (3)
+94910.057 (5) finding files: themes: skipping: this is the themes directory
+94910.060 (5) finding files: upgrade: skipping: excluded by options
+94910.062 (5) finding files: plugins: skipping: this is the plugins directory
+94910.064 (5) finding files: languages: adding to list (4)
+94910.066 (5) finding files: uploads: skipping: this is the uploads directory
+94910.078 (5) File exists (/home/content/a2pewpnas01_data03/06/3907106/html/wp-content/updraft/backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1493031770, time_now=1493050595, diff=18825)
+94910.123 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: Zip file already exists, with 168 files
+94912.343 (5) Total entities for the zip file: 42 directories, 375 files (0 skipped as non-modified), 3.8 MB
+94912.350 (5) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: 100 files added (on-disk size: 966.5 KB)
+94912.389 (5) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: 200 files added (on-disk size: 966.5 KB)
+94912.590 (5) Zip: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: 300 files added (on-disk size: 966.5 KB)
+94917.157 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip.tmp: size is now: 1.60 MB
+94917.246 (5) Created others zip (0) - 1623 KB in 7.2 s (226.7 KB/s) (sha1: 793f18968399a672971720e26cd348a980cd9b98, sha256: 9759a59e01e905d3428e3d0f4a2b427588cfb2eae843ce8d9db0eaa34a21aa38)
+94917.269 (5) Saving backup status to database (elements: 8)
+94917.275 (5) Resuming creation of database dump (WordPress DB)
+94917.286 (5) Testing: /usr/bin/mysqldump
+94917.316 (5) Binary mysqldump: error (code: 2)
+94917.404 (5) Table wp_bf1z1za98r_options: Total expected rows (approximate): 483
+94917.577 (5) Table wp_bf1z1za98r_options: Total rows added: 489 in 0.17 seconds
+94917.586 (5) Table wp_bf1z1za98r_options: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_options.table.gz - 367.2 KB)
+94917.601 (5) Table wp_bf1z1za98r_users: Total expected rows (approximate): 9
+94917.606 (5) Table wp_bf1z1za98r_users: Total rows added: 9 in 0.00 seconds
+94917.610 (5) Table wp_bf1z1za98r_users: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_users.table.gz - 1.2 KB)
+94917.631 (5) Table wp_bf1z1za98r_usermeta: Total expected rows (approximate): 398
+94917.652 (5) Table wp_bf1z1za98r_usermeta: Total rows added: 398 in 0.02 seconds
+94917.657 (5) Table wp_bf1z1za98r_usermeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_usermeta.table.gz - 10.8 KB)
+94917.684 (5) Table wp_bf1z1za98r_commentmeta: Total expected rows (approximate): 0
+94917.690 (5) Table wp_bf1z1za98r_commentmeta: Total rows added: 0 in 0.00 seconds
+94917.695 (5) Table wp_bf1z1za98r_commentmeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_commentmeta.table.gz - 0.4 KB)
+94917.726 (5) Table wp_bf1z1za98r_comments: Total expected rows (approximate): 10
+94917.733 (5) Table wp_bf1z1za98r_comments: Total rows added: 10 in 0.00 seconds
+94917.738 (5) Table wp_bf1z1za98r_comments: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_comments.table.gz - 0.9 KB)
+94917.765 (5) Table wp_bf1z1za98r_links: Total expected rows (approximate): 0
+94917.770 (5) Table wp_bf1z1za98r_links: Total rows added: 0 in 0.00 seconds
+94917.776 (5) Table wp_bf1z1za98r_links: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_links.table.gz - 0.5 KB)
+94917.804 (5) Table wp_bf1z1za98r_postmeta: Total expected rows (approximate): 390
+94917.822 (5) Table wp_bf1z1za98r_postmeta: Total rows added: 390 in 0.02 seconds
+94917.828 (5) Table wp_bf1z1za98r_postmeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_postmeta.table.gz - 6 KB)
+94917.845 (5) Table wp_bf1z1za98r_posts: Total expected rows (approximate): 58
+94917.859 (5) Table wp_bf1z1za98r_posts: Total rows added: 58 in 0.01 seconds
+94917.863 (5) Table wp_bf1z1za98r_posts: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_posts.table.gz - 3.7 KB)
+94917.882 (5) Table wp_bf1z1za98r_term_relationships: Total expected rows (approximate): 24
+94917.888 (5) Table wp_bf1z1za98r_term_relationships: Total rows added: 24 in 0.00 seconds
+94917.892 (5) Table wp_bf1z1za98r_term_relationships: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_term_relationships.table.gz - 0.4 KB)
+94917.960 (5) Table wp_bf1z1za98r_term_taxonomy: Total expected rows (approximate): 20
+94917.965 (5) Table wp_bf1z1za98r_term_taxonomy: Total rows added: 20 in 0.00 seconds
+94917.973 (5) Table wp_bf1z1za98r_term_taxonomy: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_term_taxonomy.table.gz - 0.6 KB)
+94917.993 (5) Table wp_bf1z1za98r_termmeta: Total expected rows (approximate): 7
+94917.998 (5) Table wp_bf1z1za98r_termmeta: Total rows added: 7 in 0.00 seconds
+94918.001 (5) Table wp_bf1z1za98r_termmeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_termmeta.table.gz - 0.5 KB)
+94918.014 (5) Table wp_bf1z1za98r_terms: Total expected rows (approximate): 20
+94918.019 (5) Table wp_bf1z1za98r_terms: Total rows added: 20 in 0.00 seconds
+94918.025 (5) Table wp_bf1z1za98r_terms: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_terms.table.gz - 0.6 KB)
+94918.054 (5) Table wp_bf1z1za98r_woocommerce_order_itemmeta: Total expected rows (approximate): 18
+94918.059 (5) Table wp_bf1z1za98r_woocommerce_order_itemmeta: Total rows added: 18 in 0.00 seconds
+94918.064 (5) Table wp_bf1z1za98r_woocommerce_order_itemmeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_order_itemmeta.table.gz - 0.6 KB)
+94918.111 (5) Table wp_bf1z1za98r_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+94918.115 (5) Table wp_bf1z1za98r_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+94918.121 (5) Table wp_bf1z1za98r_woocommerce_payment_tokenmeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+94918.176 (5) Table wp_bf1z1za98r_affiliate_wp_affiliatemeta: Total expected rows (approximate): 0
+94918.180 (5) Table wp_bf1z1za98r_affiliate_wp_affiliatemeta: Total rows added: 0 in 0.00 seconds
+94918.191 (5) Table wp_bf1z1za98r_affiliate_wp_affiliatemeta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_affiliatemeta.table.gz - 0.3 KB)
+94918.217 (5) Table wp_bf1z1za98r_affiliate_wp_affiliates: Total expected rows (approximate): 7
+94918.223 (5) Table wp_bf1z1za98r_affiliate_wp_affiliates: Total rows added: 7 in 0.00 seconds
+94918.233 (5) Table wp_bf1z1za98r_affiliate_wp_affiliates: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_affiliates.table.gz - 0.6 KB)
+94918.257 (5) Table wp_bf1z1za98r_affiliate_wp_creatives: Total expected rows (approximate): 0
+94918.260 (5) Table wp_bf1z1za98r_affiliate_wp_creatives: Total rows added: 0 in 0.00 seconds
+94918.265 (5) Table wp_bf1z1za98r_affiliate_wp_creatives: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_creatives.table.gz - 0.4 KB)
+94918.297 (5) Table wp_bf1z1za98r_affiliate_wp_mlm_connections: Total expected rows (approximate): 7
+94918.302 (5) Table wp_bf1z1za98r_affiliate_wp_mlm_connections: Total rows added: 7 in 0.00 seconds
+94918.309 (5) Table wp_bf1z1za98r_affiliate_wp_mlm_connections: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_mlm_connections.table.gz - 0.4 KB)
+94918.346 (5) Table wp_bf1z1za98r_affiliate_wp_payouts: Total expected rows (approximate): 22
+94918.353 (5) Table wp_bf1z1za98r_affiliate_wp_payouts: Total rows added: 22 in 0.00 seconds
+94918.358 (5) Table wp_bf1z1za98r_affiliate_wp_payouts: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_payouts.table.gz - 0.7 KB)
+94918.379 (5) Table wp_bf1z1za98r_affiliate_wp_referrals: Total expected rows (approximate): 9
+94918.385 (5) Table wp_bf1z1za98r_affiliate_wp_referrals: Total rows added: 9 in 0.00 seconds
+94918.390 (5) Table wp_bf1z1za98r_affiliate_wp_referrals: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_referrals.table.gz - 0.8 KB)
+94918.424 (5) Table wp_bf1z1za98r_affiliate_wp_rest_consumers: Total expected rows (approximate): 0
+94918.428 (5) Table wp_bf1z1za98r_affiliate_wp_rest_consumers: Total rows added: 0 in 0.00 seconds
+94918.431 (5) Table wp_bf1z1za98r_affiliate_wp_rest_consumers: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_rest_consumers.table.gz - 0.3 KB)
+94918.452 (5) Table wp_bf1z1za98r_affiliate_wp_visits: Total expected rows (approximate): 3
+94918.457 (5) Table wp_bf1z1za98r_affiliate_wp_visits: Total rows added: 3 in 0.00 seconds
+94918.466 (5) Table wp_bf1z1za98r_affiliate_wp_visits: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_visits.table.gz - 0.5 KB)
+94918.487 (5) Table wp_bf1z1za98r_formmaker: Total expected rows (approximate): 9
+94918.502 (5) Table wp_bf1z1za98r_formmaker: Total rows added: 9 in 0.01 seconds
+94918.515 (5) Table wp_bf1z1za98r_formmaker: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker.table.gz - 5.7 KB)
+94918.542 (5) Table wp_bf1z1za98r_formmaker_backup: Total expected rows (approximate): 0
+94918.549 (5) Table wp_bf1z1za98r_formmaker_backup: Total rows added: 0 in 0.01 seconds
+94918.553 (5) Table wp_bf1z1za98r_formmaker_backup: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_backup.table.gz - 0.8 KB)
+94918.591 (5) Table wp_bf1z1za98r_formmaker_blocked: Total expected rows (approximate): 0
+94918.597 (5) Table wp_bf1z1za98r_formmaker_blocked: Total rows added: 0 in 0.00 seconds
+94918.604 (5) Table wp_bf1z1za98r_formmaker_blocked: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_blocked.table.gz - 0.3 KB)
+94918.631 (5) Table wp_bf1z1za98r_formmaker_display_options: Total expected rows (approximate): 0
+94918.636 (5) Table wp_bf1z1za98r_formmaker_display_options: Total rows added: 0 in 0.00 seconds
+94918.642 (5) Table wp_bf1z1za98r_formmaker_display_options: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_display_options.table.gz - 0.5 KB)
+94918.662 (5) Table wp_bf1z1za98r_formmaker_query: Total expected rows (approximate): 0
+94918.667 (5) Table wp_bf1z1za98r_formmaker_query: Total rows added: 0 in 0.00 seconds
+94918.671 (5) Table wp_bf1z1za98r_formmaker_query: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_query.table.gz - 0.3 KB)
+94918.698 (5) Table wp_bf1z1za98r_formmaker_sessions: Total expected rows (approximate): 0
+94918.706 (5) Table wp_bf1z1za98r_formmaker_sessions: Total rows added: 0 in 0.00 seconds
+94918.710 (5) Table wp_bf1z1za98r_formmaker_sessions: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_sessions.table.gz - 0.5 KB)
+94918.731 (5) Table wp_bf1z1za98r_formmaker_submits: Total expected rows (approximate): 0
+94918.735 (5) Table wp_bf1z1za98r_formmaker_submits: Total rows added: 0 in 0.00 seconds
+94918.739 (5) Table wp_bf1z1za98r_formmaker_submits: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_submits.table.gz - 0.3 KB)
+94918.758 (5) Table wp_bf1z1za98r_formmaker_themes: Total expected rows (approximate): 51
+94918.797 (5) Table wp_bf1z1za98r_formmaker_themes: Total rows added: 51 in 0.04 seconds
+94918.801 (5) Table wp_bf1z1za98r_formmaker_themes: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_themes.table.gz - 28.6 KB)
+94918.818 (5) Table wp_bf1z1za98r_formmaker_views: Total expected rows (approximate): 0
+94918.823 (5) Table wp_bf1z1za98r_formmaker_views: Total rows added: 0 in 0.00 seconds
+94918.828 (5) Table wp_bf1z1za98r_formmaker_views: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_views.table.gz - 0.3 KB)
+94918.850 (5) Table wp_bf1z1za98r_nf3_action_meta: Total expected rows (approximate): 265
+94918.864 (5) Table wp_bf1z1za98r_nf3_action_meta: Total rows added: 265 in 0.01 seconds
+94918.868 (5) Table wp_bf1z1za98r_nf3_action_meta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_action_meta.table.gz - 2.5 KB)
+94918.889 (5) Table wp_bf1z1za98r_nf3_actions: Total expected rows (approximate): 13
+94918.894 (5) Table wp_bf1z1za98r_nf3_actions: Total rows added: 13 in 0.00 seconds
+94918.897 (5) Table wp_bf1z1za98r_nf3_actions: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_actions.table.gz - 0.6 KB)
+94918.910 (5) Table wp_bf1z1za98r_nf3_field_meta: Total expected rows (approximate): 449
+94918.928 (5) Table wp_bf1z1za98r_nf3_field_meta: Total rows added: 449 in 0.02 seconds
+94918.933 (5) Table wp_bf1z1za98r_nf3_field_meta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_field_meta.table.gz - 3.4 KB)
+94918.962 (5) Table wp_bf1z1za98r_nf3_fields: Total expected rows (approximate): 32
+94918.968 (5) Table wp_bf1z1za98r_nf3_fields: Total rows added: 32 in 0.00 seconds
+94918.974 (5) Table wp_bf1z1za98r_nf3_fields: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_fields.table.gz - 0.9 KB)
+94918.989 (5) Table wp_bf1z1za98r_nf3_form_meta: Total expected rows (approximate): 142
+94919.002 (5) Table wp_bf1z1za98r_nf3_form_meta: Total rows added: 152 in 0.01 seconds
+94919.006 (5) Table wp_bf1z1za98r_nf3_form_meta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_form_meta.table.gz - 1.9 KB)
+94919.019 (5) Table wp_bf1z1za98r_nf3_forms: Total expected rows (approximate): 3
+94919.023 (5) Table wp_bf1z1za98r_nf3_forms: Total rows added: 4 in 0.00 seconds
+94919.059 (5) Table wp_bf1z1za98r_nf3_forms: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_forms.table.gz - 0.5 KB)
+94919.082 (5) Table wp_bf1z1za98r_nf3_object_meta: Total expected rows (approximate): 0
+94919.086 (5) Table wp_bf1z1za98r_nf3_object_meta: Total rows added: 0 in 0.00 seconds
+94919.091 (5) Table wp_bf1z1za98r_nf3_object_meta: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_object_meta.table.gz - 0.3 KB)
+94919.111 (5) Table wp_bf1z1za98r_nf3_objects: Total expected rows (approximate): 0
+94919.115 (5) Table wp_bf1z1za98r_nf3_objects: Total rows added: 0 in 0.00 seconds
+94919.120 (5) Table wp_bf1z1za98r_nf3_objects: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_objects.table.gz - 0.4 KB)
+94919.141 (5) Table wp_bf1z1za98r_nf3_relationships: Total expected rows (approximate): 0
+94919.145 (5) Table wp_bf1z1za98r_nf3_relationships: Total rows added: 0 in 0.00 seconds
+94919.148 (5) Table wp_bf1z1za98r_nf3_relationships: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_relationships.table.gz - 0.4 KB)
+94919.172 (5) Table wp_bf1z1za98r_woocommerce_api_keys: Total expected rows (approximate): 0
+94919.177 (5) Table wp_bf1z1za98r_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+94919.181 (5) Table wp_bf1z1za98r_woocommerce_api_keys: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_api_keys.table.gz - 0.4 KB)
+94919.199 (5) Table wp_bf1z1za98r_woocommerce_attribute_taxonomies: Total expected rows (approximate): 1
+94919.204 (5) Table wp_bf1z1za98r_woocommerce_attribute_taxonomies: Total rows added: 1 in 0.00 seconds
+94919.208 (5) Table wp_bf1z1za98r_woocommerce_attribute_taxonomies: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+94919.227 (5) Table wp_bf1z1za98r_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+94919.232 (5) Table wp_bf1z1za98r_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+94919.236 (5) Table wp_bf1z1za98r_woocommerce_downloadable_product_permissions: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+94919.259 (5) Table wp_bf1z1za98r_woocommerce_log: Total expected rows (approximate): 0
+94919.262 (5) Table wp_bf1z1za98r_woocommerce_log: Total rows added: 0 in 0.00 seconds
+94919.266 (5) Table wp_bf1z1za98r_woocommerce_log: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_log.table.gz - 0.4 KB)
+94919.290 (5) Table wp_bf1z1za98r_woocommerce_order_items: Total expected rows (approximate): 2
+94919.299 (5) Table wp_bf1z1za98r_woocommerce_order_items: Total rows added: 2 in 0.00 seconds
+94919.306 (5) Table wp_bf1z1za98r_woocommerce_order_items: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_order_items.table.gz - 0.4 KB)
+94919.324 (5) Table wp_bf1z1za98r_woocommerce_payment_tokens: Total expected rows (approximate): 0
+94919.328 (5) Table wp_bf1z1za98r_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+94919.332 (5) Table wp_bf1z1za98r_woocommerce_payment_tokens: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_payment_tokens.table.gz - 0.4 KB)
+94919.349 (5) Table wp_bf1z1za98r_woocommerce_sessions: Total expected rows (approximate): 5
+94919.353 (5) Table wp_bf1z1za98r_woocommerce_sessions: Total rows added: 6 in 0.00 seconds
+94919.360 (5) Table wp_bf1z1za98r_woocommerce_sessions: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_sessions.table.gz - 1.4 KB)
+94919.375 (5) Table wp_bf1z1za98r_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+94919.379 (5) Table wp_bf1z1za98r_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+94919.384 (5) Table wp_bf1z1za98r_woocommerce_shipping_zone_locations: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+94919.407 (5) Table wp_bf1z1za98r_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+94919.411 (5) Table wp_bf1z1za98r_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+94919.415 (5) Table wp_bf1z1za98r_woocommerce_shipping_zone_methods: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+94919.436 (5) Table wp_bf1z1za98r_woocommerce_shipping_zones: Total expected rows (approximate): 0
+94919.439 (5) Table wp_bf1z1za98r_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+94919.442 (5) Table wp_bf1z1za98r_woocommerce_shipping_zones: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_shipping_zones.table.gz - 0.3 KB)
+94919.460 (5) Table wp_bf1z1za98r_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+94919.464 (5) Table wp_bf1z1za98r_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+94919.471 (5) Table wp_bf1z1za98r_woocommerce_tax_rate_locations: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+94919.502 (5) Table wp_bf1z1za98r_woocommerce_tax_rates: Total expected rows (approximate): 0
+94919.507 (5) Table wp_bf1z1za98r_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+94919.519 (5) Table wp_bf1z1za98r_woocommerce_tax_rates: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_tax_rates.table.gz - 0.4 KB)
+94919.543 (5) Table wp_bf1z1za98r_affiliate_wp_campaigns: Total rows added: 0 in 0.00 seconds
+94919.546 (5) Table wp_bf1z1za98r_affiliate_wp_campaigns: finishing file (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_campaigns.table.gz - 0.4 KB)
+94919.557 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_options.table.gz (1/53): adding to final database dump
+94919.740 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_users.table.gz (2/53): adding to final database dump
+94919.744 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_usermeta.table.gz (3/53): adding to final database dump
+94919.762 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_commentmeta.table.gz (4/53): adding to final database dump
+94919.765 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_comments.table.gz (5/53): adding to final database dump
+94919.771 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_links.table.gz (6/53): adding to final database dump
+94919.775 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_postmeta.table.gz (7/53): adding to final database dump
+94919.784 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_posts.table.gz (8/53): adding to final database dump
+94919.790 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_term_relationships.table.gz (9/53): adding to final database dump
+94919.797 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_term_taxonomy.table.gz (10/53): adding to final database dump
+94919.801 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_termmeta.table.gz (11/53): adding to final database dump
+94919.807 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_terms.table.gz (12/53): adding to final database dump
+94919.811 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_order_itemmeta.table.gz (13/53): adding to final database dump
+94919.815 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_payment_tokenmeta.table.gz (14/53): adding to final database dump
+94919.817 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_affiliatemeta.table.gz (15/53): adding to final database dump
+94919.821 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_affiliates.table.gz (16/53): adding to final database dump
+94919.825 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_creatives.table.gz (17/53): adding to final database dump
+94919.829 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_mlm_connections.table.gz (18/53): adding to final database dump
+94919.833 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_payouts.table.gz (19/53): adding to final database dump
+94919.848 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_referrals.table.gz (20/53): adding to final database dump
+94919.855 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_rest_consumers.table.gz (21/53): adding to final database dump
+94919.862 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_visits.table.gz (22/53): adding to final database dump
+94919.874 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker.table.gz (23/53): adding to final database dump
+94919.886 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_backup.table.gz (24/53): adding to final database dump
+94919.892 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_blocked.table.gz (25/53): adding to final database dump
+94919.895 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_display_options.table.gz (26/53): adding to final database dump
+94919.898 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_query.table.gz (27/53): adding to final database dump
+94919.902 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_sessions.table.gz (28/53): adding to final database dump
+94919.905 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_submits.table.gz (29/53): adding to final database dump
+94919.911 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_themes.table.gz (30/53): adding to final database dump
+94919.932 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_formmaker_views.table.gz (31/53): adding to final database dump
+94919.935 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_action_meta.table.gz (32/53): adding to final database dump
+94919.941 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_actions.table.gz (33/53): adding to final database dump
+94919.945 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_field_meta.table.gz (34/53): adding to final database dump
+94919.954 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_fields.table.gz (35/53): adding to final database dump
+94919.958 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_form_meta.table.gz (36/53): adding to final database dump
+94919.964 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_forms.table.gz (37/53): adding to final database dump
+94919.986 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_object_meta.table.gz (38/53): adding to final database dump
+94919.991 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_objects.table.gz (39/53): adding to final database dump
+94919.995 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_nf3_relationships.table.gz (40/53): adding to final database dump
+94920.000 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_api_keys.table.gz (41/53): adding to final database dump
+94920.006 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_attribute_taxonomies.table.gz (42/53): adding to final database dump
+94920.010 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_downloadable_product_permissions.table.gz (43/53): adding to final database dump
+94920.013 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_log.table.gz (44/53): adding to final database dump
+94920.017 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_order_items.table.gz (45/53): adding to final database dump
+94920.020 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_payment_tokens.table.gz (46/53): adding to final database dump
+94920.024 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_sessions.table.gz (47/53): adding to final database dump
+94920.028 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_shipping_zone_locations.table.gz (48/53): adding to final database dump
+94920.031 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_shipping_zone_methods.table.gz (49/53): adding to final database dump
+94920.034 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_shipping_zones.table.gz (50/53): adding to final database dump
+94920.037 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_tax_rate_locations.table.gz (51/53): adding to final database dump
+94920.039 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_woocommerce_tax_rates.table.gz (52/53): adding to final database dump
+94920.043 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db-table-wp_bf1z1za98r_affiliate_wp_campaigns.table.gz (53/53): adding to final database dump
+94920.050 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db.gz: finished writing out complete database file (416 KB)
+94920.198 (5) Total database tables backed up: 53 (backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db.gz, size: 448356, sha256)
+94920.213 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+94920.215 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+94920.218 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+94920.221 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip: others: This file has not yet been successfully uploaded: will queue
+94920.223 (5) backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db.gz: db: This file has not yet been successfully uploaded: will queue
+94920.225 (5) Saving backup history. Total backup size: 38.7 MB
+94920.230 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+94920.237 (5) Cloud backup selection (1/1): none (last)
+94920.253 (5) No remote despatch: user chose no remote backup service
+94920.261 (5) Recording as successfully uploaded: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-plugins.zip (d6db4cc87cabcc1c92bbaf80969d63b7)
+94920.275 (5) Recording as successfully uploaded: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-themes.zip (f93de21486e992b955db238b885dcbaf)
+94920.286 (5) Recording as successfully uploaded: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-uploads.zip (1f3dc317b33a4eab242cfa0a6037f699)
+94920.299 (5) Recording as successfully uploaded: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-others.zip (856fa4ba0324d054a952d2443cd04d65)
+94920.310 (5) Recording as successfully uploaded: backup_2017-04-23-0954_thynk_beauty_bcc5d4f6fd5f-db.gz (2fecbd20448921f9f100de06f6138066)
+94920.322 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+94920.325 (5) Number of backup sets in history: 2; groups (db): 1
+94920.327 (5) Examining (for databases) backup set with group_id=0, nonce=bcc5d4f6fd5f, datestamp=1492955685 (Apr 23 2017 13:54:45)
+94920.329 (5) This backup set is the backup set just made, so will not be deleted.
+94920.331 (5) Examining (for databases) backup set with group_id=0, nonce=7b6dc80737f3, datestamp=1492468776 (Apr 17 2017 22:39:36)
+94920.333 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+94920.334 (5) Number of backup sets in history: 2; groups (files): 1
+94920.336 (5) Examining (for files) backup set with nonce=bcc5d4f6fd5f, datestamp=1492955685 (Apr 23 2017 13:54:45)
+94920.338 (5) This backup set is the backup set just made, so will not be deleted.
+94920.340 (5) This backup set is the backup set just made, so will not be deleted.
+94920.341 (5) This backup set is the backup set just made, so will not be deleted.
+94920.341 (5) This backup set is the backup set just made, so will not be deleted.
+94920.341 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+94920.343 (5) Examining (for files) backup set with nonce=7b6dc80737f3, datestamp=1492468776 (Apr 17 2017 22:39:36)
+94920.345 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+94920.347 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+94920.355 (5) Resume backup (bcc5d4f6fd5f, 5): finish run
+94920.360 (5) There were no errors in the uploads, so the 'resume' event (6) is being unscheduled
+94920.368 (5) No email will/can be sent - the user has not configured an email address.
+94920.371 (5) The backup apparently succeeded (with warnings) and is now complete
