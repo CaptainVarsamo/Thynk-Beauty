@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Background pattern from Subtle Patterns */
 body h1 {
-  margin-top: 9rem;
+  margin-top: 4rem;
   font-size: 13rem;
   display: inline-block;
   width: 100%;
@@ -44,10 +44,10 @@ body h5 {
 .homepagecontent {
   border: solid 10px black;
   padding: 2rem 2rem 0;
-  max-width: 50vw;
+  max-width: 1000px;
   background-color: white;
   min-height: 33vh;
-  margin-top: 23vh;
+  margin-top: 5rem;
 }
 
 [class*=wp-image] {
@@ -66,7 +66,7 @@ body h5 {
 
   .homepagecontent {
     max-width: 90vw;
-    margin-top:5vh;
+    margin-top: 5vh;
   }
 
   img.alignright {
@@ -75,4 +75,52 @@ body h5 {
     float: none;
     margin: 2rem auto;
   }
+}
+
+form {
+  width: 48%;
+  margin: 0 auto;
+  padding: 0 1%;
+  float: left;
+}
+
+.logged-in form {
+  float: none;
+}
+
+input, textarea {
+  width: 100%;
+  display: block;
+  height: 40px;
+  padding: 0 1rem;
+}
+
+input[disabled='disabled'] {
+  background-color: #cccccc;
+}
+
+input[disabled='disabled']:hover {
+  cursor: not-allowed;
+}
+
+.addtoany_share_save_container {
+  clear: both;
+  text-align: center;
+  margin: 46px 0;
+  opacity: .5;
+}
+
+p.affwp-notice {
+  background-color: white;
+  text-align: center;
+  font-size: 2.4rem;
+  border: none;
+  background: rgb(247, 247, 247);
+  padding: 4rem;
+  text-transform: uppercase;
+}
+
+.main {
+  background: white;
+  padding: 2rem;
 }
