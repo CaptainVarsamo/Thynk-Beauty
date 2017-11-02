@@ -1,7 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215fcece-c136-40bf-bbdd-cc71d3069ebb" name="Default" comment="" />
+    <list default="true" id="215fcece-c136-40bf-bbdd-cc71d3069ebb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ar.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ar.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-bg_BG.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-bg_BG.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-cs_CZ.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-cs_CZ.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-de_DE.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-de_DE.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-en.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-en.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_AR.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_AR.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_ES.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_ES.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_MX.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_MX.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fa_IR.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fa_IR.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fr_FR.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fr_FR.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hi_IN.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hi_IN.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr_CRO.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr_CRO.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hu_HU.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hu_HU.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hy_AM.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hy_AM.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-id_ID.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-id_ID.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-it_IT.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-it_IT.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ja.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ja.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ms_MY.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ms_MY.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nb_NO.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nb_NO.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nl_NL.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nl_NL.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pl_PL.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pl_PL.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pt_BR.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pt_BR.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ro_RO.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ro_RO.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ru_RU.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ru_RU.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-sr_RS.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-sr_RS.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-tr_TR.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-tr_TR.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-vi.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-vi.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_CN.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_CN.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_TW.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_TW.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/affiliate-wp.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/affiliate-wp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/css/admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/css/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/css/admin.min.css" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/css/admin.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/admin.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/admin.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/frontend.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/frontend.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/tracking.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/assets/js/tracking.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/REST/class-rest-authentication.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/REST/class-rest-authentication.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/REST/class-rest-consumers-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/REST/class-rest-consumers-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/abstracts/class-affwp-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/abstracts/class-affwp-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/abstracts/class-affwp-reports-tab.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/abstracts/class-affwp-reports-tab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/abstracts/class-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/abstracts/class-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/actions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/actions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/affiliates/class-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/affiliates/class-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/affiliates/new.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/affiliates/new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/affiliates/view.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/affiliates/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/class-notices.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/class-notices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/class-upgrades.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/class-upgrades.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/creatives/class-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/creatives/class-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/creatives/new.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/creatives/new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/overview/metaboxes/class-metabox-overview-recent-referrals.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/overview/metaboxes/class-metabox-overview-recent-referrals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/payouts/class-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/payouts/class-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/payouts/payouts.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/payouts/payouts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/referrals/class-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/referrals/class-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/referrals/contextual-help.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/referrals/contextual-help.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/referrals/referrals.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/referrals/referrals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/class-registrations-graph.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/class-registrations-graph.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/class-reports-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/class-reports-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-affiliates-reports-tab.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-affiliates-reports-tab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-campaigns-reports-tab.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-campaigns-reports-tab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-referrals-reports-tab.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-referrals-reports-tab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-visits-reports-tab.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/reports/tabs/class-visits-reports-tab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/settings/class-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/settings/display-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/settings/display-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/class-batch-recount-affiliate-stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/class-batch-recount-affiliate-stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/class-rest-consumers-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/class-rest-consumers-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export-affiliates.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export-affiliates.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export-payouts.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export-payouts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export-referrals.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export-referrals.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-export.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-generate-payouts.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/export/class-batch-generate-payouts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/import/class-import.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/import/class-import.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/tools.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/tools.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/upgrades/class-batch-upgrade-recount-affiliate-stats.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/tools/upgrades/class-batch-upgrade-recount-affiliate-stats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-migrate-users.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-migrate-users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-migrate-wp-affiliate.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-migrate-wp-affiliate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-process-registry.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-process-registry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-process.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-batch-process.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-data-storage.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/utilities/class-data-storage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/visits/class-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/admin/visits/class-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/affiliate-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/affiliate-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-affiliate-meta-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-affiliate-meta-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-affiliates-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-affiliates-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-affwp-referral.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-affwp-referral.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-campaigns-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-campaigns-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-capabilities.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-capabilities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-creatives-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-creatives-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-graph.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-graph.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-payouts-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-payouts-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-referrals-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-referrals-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-referrals-graph.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-referrals-graph.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-register.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-rewrites.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-rewrites.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-tracking.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-tracking.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-visits-db.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/class-visits-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/install.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-base.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-base.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-caldera-forms.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-caldera-forms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-contactform7.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-contactform7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-edd.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-edd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-exchange.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-exchange.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-formidablepro.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-formidablepro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-give.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-give.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-gravityforms.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-gravityforms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-jigoshop.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-jigoshop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-lifterlms.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-lifterlms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-marketpress.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-marketpress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-membermouse.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-membermouse.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-memberpress.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-memberpress.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-ninja-forms.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-ninja-forms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-optimizemember.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-optimizemember.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-paypal.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-paypal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-pmp.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-pmp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-pms.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-pms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-rcp.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-rcp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-s2member.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-s2member.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-shopp.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-shopp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-sproutinvoices.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-sproutinvoices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-stripe.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-stripe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-woocommerce.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-woocommerce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wp-invoice.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wp-invoice.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wpeasycart.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wpeasycart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wpec.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wpec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wpforms.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-wpforms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-zippycourses.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/integrations/class-zippycourses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/misc-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/misc-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/plugin-compatibility.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/plugin-compatibility.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/referral-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/referral-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/scripts.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/includes/scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ar.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ar.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-bg_BG.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-bg_BG.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-cs_CZ.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-cs_CZ.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-de_DE.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-de_DE.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-en.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-en.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_AR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_AR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_ES.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_ES.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_MX.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-es_MX.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fa_IR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fa_IR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fr_FR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-fr_FR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hi_IN.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hi_IN.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr_CRO.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hr_CRO.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hu_HU.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hu_HU.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hy_AM.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-hy_AM.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-id_ID.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-id_ID.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-it_IT.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-it_IT.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ja.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ja.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ms_MY.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ms_MY.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nb_NO.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nb_NO.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nl_NL.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-nl_NL.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pl_PL.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pl_PL.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pt_BR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-pt_BR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ro_RO.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ro_RO.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ru_RU.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-ru_RU.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-sr_RS.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-sr_RS.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-tr_TR.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-tr_TR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-vi.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-vi.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_CN.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_CN.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_TW.po" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp-zh_TW.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/languages/affiliate-wp.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/templates/dashboard-tab-visits.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/templates/dashboard-tab-visits.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/templates/emails/header-default.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/templates/emails/header-default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/templates/register.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/templates/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/uninstall.php" afterPath="$PROJECT_DIR$/wp-content/plugins/affiliate-wp/uninstall.php" />
+    </list>
     <ignored path="thynkbeauty.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,7 +188,110 @@
     <favorites_list name="thynkbeauty.com" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/front-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/front-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/assets/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="virtue.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/assets/css/virtue.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#180923#181114#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single-product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/woocommerce/single-product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +307,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/virtue/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/virtue/templates/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/virtue/templates/head.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/thynkbeauty/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/thynkbeauty/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/thynkbeauty/style.css" />
       </list>
     </option>
   </component>
@@ -118,6 +391,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -136,10 +410,41 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thynkbeauty.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thynkbeauty.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thynkbeauty.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thynkbeauty.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,6 +457,22 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="129" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="149" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="944" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="142" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -204,36 +525,46 @@
       <workItem from="1492954931641" duration="1338000" />
       <workItem from="1495670387303" duration="4759000" />
       <workItem from="1495741007340" duration="30000" />
+      <workItem from="1503351198216" duration="2591000" />
+      <workItem from="1504827155868" duration="435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8442000" />
+    <option name="totallyTimeSpent" value="11468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="23" width="2560" height="1417" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18268467" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15488483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18240343" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17077045" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23556583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820907" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40529802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -245,6 +576,88 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/assets/css/virtue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#180923#181114#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/woocommerce/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -315,17 +728,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/page-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -350,10 +763,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/page-blog.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/woocommerce/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/virtue/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="25" selection-start-line="138" selection-start-column="25" selection-end-line="138" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/assets/css/virtue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#180923#181114#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/thynkbeauty/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
