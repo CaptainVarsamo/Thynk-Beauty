@@ -30,6 +30,68 @@ Yes, go here: https://wordpress.org/support/theme/virtue
 
 = Theme Name: Virtue =
 
+= Version 3.1.2 | 12th January 2018 = 
+* Fix: image grid widget.
+* Slight change product archive template.
+
+= Version 3.1.1 | 27th December 2017 = 
+* Move: CMB to toolkit.
+* Update: Metabox script to use CMB2.
+* Update: Clean files spacing and code cleanup.
+* Add: More esc for translations.
+* Deprecate functions.
+* Force users to pull favicon through customizer for better standards support.
+
+= Version 3.1.0 | 21st November 2017 = 
+* Fix: Issue with blog full width output.
+
+= Version 3.0.9 | 31th October 2017 = 
+* Change version for wordpress.org upload issue.
+
+= Version 3.0.8 | 31th October 2017 = 
+* Add: Deprecated functions.
+
+= Version 3.0.7 | 25th October 2017 = 
+* Update: Lots of code restructure, esc issues for php sniffer.
+* Update: Cart url for woocommerce.
+
+= Version 3.0.6 | 25th August 2017 = 
+* Add: string translate for blog category.
+
+= Version 3.0.5 | 17th August 2017 = 
+* Fix: css import issue.
+* Fix: POT so that esc_html__ is added. 
+
+= Version 3.0.4 | 8th August 2017 = 
+* Fix issue with WPML
+* Update: Small CSS change
+
+= Version 3.0.3 | 27th June 2017 = 
+* Fix issue with skip to content.
+
+= Version 3.0.2 | 27th June 2017 = 
+* Update: ready for WC 3.1.0
+* Update: Header and footer templates for better plugin compatibility
+
+= Version 3.0.1 | 19th June 2017 = 
+* Update: Schema.
+* Update: Small css update.
+
+= Version 3.0.0 | 17th May 2017 = 
+* Update: Woo Template.
+* Update: Schema.
+
+= Version 2.9.9 | 9th April 2017 = 
+* Update: Woo Template
+
+= Version 2.9.8 | 20th April 2017 = 
+* Fix: Issue with wc notice
+* Fix: Missing icon in admin.
+
+= Version 2.9.7 | 18th April 2017 = 
+* Fix: Issue with cart reload and quantity.
+* Update: Icon font to include vimeo.
+
 = Version 2.9.6 | 17th April 2017 = 
 * Fix: Issue with WC notice.
 

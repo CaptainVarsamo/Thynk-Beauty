@@ -58,7 +58,7 @@ if ( ! class_exists( 'Redux' ) ) {
         'disable_tracking'     => true,
         'customizer_only'      => true,
         'save_defaults'        => false,
-        'intro_text'           => 'Upgrade to <a href="https://www.kadencethemes.com/product/virtue-premium-theme/" target="_blank" >Virtue Premium</a> for more great features. Over 50 more theme options, premium sliders and carousels, breadcrumbs, custom post types and much much more!',           
+        'intro_text'           => 'Upgrade to <a href="https://www.kadencethemes.com/product/virtue-premium-theme/?utm_source=themeoptions&utm_medium=banner&utm_campaign=virtue_premium" target="_blank" >Virtue Premium</a> for more great features. Over 50 more theme options, premium sliders and carousels, breadcrumbs, custom post types and much much more!',           
         'footer_credit'        => __('Thank you for using the Virtue Theme by <a href="https://www.kadencethemes.com/" target="_blank">Kadence Themes</a>.', 'virtue'),
         'hints'                => array(
             'icon'          => 'icon-question',
@@ -1856,14 +1856,6 @@ Redux::setSection( $opt_name, array(
             'title' => __('Hide Image Border', 'virtue'),
             'subtitle' => __('Choose to show or hide image border for images added in pages or posts', 'virtue'),
             "default" => 0,
-            ),
-        array(
-            'id'=>'virtue_custom_favicon',
-            'type' => 'media', 
-            'customizer' => true,
-            'preview'=> true,
-            'title' => __('Custom Favicon, *Note depreciated. Use WordPress site icon in customizer.', 'virtue'),
-            'subtitle' => __('Upload a 16px x 16px png/gif/ico image that will represent your website favicon.', 'virtue'),
             ),
         array(
             'id'=>'contact_email',

@@ -13,7 +13,7 @@
  * @see 	    https://docs.woocommerce.com/document/template-structure/
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version     3.0.3
+ * @version     3.0.7
  */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
@@ -28,6 +28,7 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 		<tbody>
 			<?php
 				$quantites_required = false;
+				$previous_post      = $post;
 				
 				foreach ( $grouped_products as $grouped_product ) {
 					if ( version_compare( WC_VERSION, '2.7', '<' ) ) {
@@ -49,7 +50,7 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 						$post_object = get_post( $grouped_product->get_id() );
 						$quantites_required = $quantites_required || ($grouped_product->is_purchasable() && ! $grouped_product->has_options() );
 
-						setup_postdata( $GLOBALS['post'] =& $post_object );
+						setup_postdata( $post =& $post_object );
 					}
 					?>
 					<tr id="product-<?php the_ID(); ?>" <?php post_class(); ?>>
@@ -91,7 +92,7 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 						</td>
 						<td class="label">
 							<label for="product-<?php echo esc_attr($grouped_product->get_id()); ?>">
-								<?php echo $grouped_product->is_visible() ? '<a href="' . esc_url( apply_filters( 'woocommerce_grouped_product_list_link', get_permalink(), $grouped_product->get_id() ) ) . '">' . get_the_title() . '</a>' : get_the_title(); ?>
+								<?php echo $grouped_product->is_visible() ? '<a href="' . esc_url( apply_filters( 'woocommerce_grouped_product_list_link', get_permalink( $grouped_product->get_id() ), $grouped_product->get_id() ) ) . '">' . $grouped_product->get_name() . '</a>' : $grouped_product->get_name(); ?>
 							</label>
 						</td>
 						<?php do_action( 'woocommerce_grouped_product_list_before_price', $grouped_product ); ?>
@@ -113,7 +114,8 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 					</tr>
 					<?php
 				}
-				wp_reset_postdata();
+				// Return data to original post.
+				setup_postdata( $post =& $previous_post );
 			?>
 		</tbody>
 	</table>
