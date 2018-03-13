@@ -11,35 +11,85 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  thynkbeauty
 */
+body {
+  font-size: 18px;
+}
 
-h1, h2, h3, h4, h5, h6 {
+.home #content h1, .home #content h2, .home #content h3, .home #content h4, .home #content h5, .home #content h6,
+.affiliate-area #content h1, .affiliate-area #content h2, .affiliate-area #content h3, .affiliate-area #content h4, .affiliate-area #content h5, .affiliate-area #content h6 {
   font-family: "Niagara Solid" !important;
   font-style: Normal;
   font-weight: Normal;
+  font-size: 450%;
+  display: inline-block;
+  width: 100%;
+  line-height: 1.2;
+}
+
+@media only screen and (max-width: 768px) {
+  .home #content h1, .home #content h2, .home #content h3, .home #content h4, .home #content h5, .home #content h6,
+  .affiliate-area #content h1, .affiliate-area #content h2, .affiliate-area #content h3, .affiliate-area #content h4, .affiliate-area #content h5, .affiliate-area #content h6 {
+    font-size: 300%;
+
+  }
+}
+
+#logo {
+  border: solid 4px black;
+  background: white;
+  width: 550px;
+  margin: 2rem auto !important;
+  display: block;
+  padding: 1rem 6rem;
+  max-width: 100%;
+}
+
+.kad_tagline {
+  font-family: "Niagara Solid" !important;
+  font-size: 275% !important;
+  margin: 1rem 0 0;
+  line-height: 36px;
+
+}
+
+@media only screen and (max-width: 768px) {
+  .kad_tagline {
+    font-size: 140% !important;
+
+  }
+}
+
+body p,
+body a,
+body span,
+body div {
+  /*font-family: "Niagara Thi";*/
+  /*font-size: 4rem;*/
+  /*line-height: 1.12;*/
 
 }
 
 /*body {*/
-  /*font-family: "Niagara Solid" !important;*/
-  /*font-size:20px !important;*/
+/*font-family: "Niagara Solid" !important;*/
+/*font-size:20px !important;*/
 /*}*/
 
 /* Background pattern from Subtle Patterns */
 body h1 {
-  margin-top: 4rem;
-  font-size: 13rem;
+  /*margin-top: 4rem;*/
+  /*font-size: 13rem;*/
   display: inline-block;
   width: 100%;
-  text-align: center;
+  /*text-align: center;*/
   /* background set inside of WP GUI*/
 }
 
 body h5 {
-  font-size: 4rem;
-  margin-top: 2rem;
+  /*font-size: 4rem;*/
+  /*margin-top: 2rem;*/
   display: inline-block;
   width: 100%;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .contentclass {
@@ -47,12 +97,12 @@ body h5 {
 }
 
 /*.homepagecontent {*/
-  /*border: solid 10px black;*/
-  /*padding: 2rem 2rem 0;*/
-  /*max-width: 1000px;*/
-  /*background-color: white;*/
-  /*min-height: 33vh;*/
-  /*margin-top: 5rem;*/
+/*border: solid 10px black;*/
+/*padding: 2rem 2rem 0;*/
+/*max-width: 1000px;*/
+/*background-color: white;*/
+/*min-height: 33vh;*/
+/*margin-top: 5rem;*/
 /*}*/
 
 [class*=wp-image] {
@@ -83,14 +133,22 @@ body h5 {
 }
 
 form {
-  width: 48%;
-  margin: 0 auto;
-  padding: 0 1%;
-  float: left;
+  /*width: 48%;*/
+  /*margin: 0 auto;*/
+  /*padding: 0 1%;*/
+  /*float: left;*/
+}
+
+.homecontent .kad_product {
+  min-width: 100% !important;
+  position: relative !important;
+  top: initial !important;
+  left: initial !important;
+
 }
 
 .logged-in form {
-  float: none;
+  /*float: none;*/
 }
 
 input, textarea {
@@ -116,7 +174,6 @@ input[disabled='disabled']:hover {
 }
 
 p.affwp-notice {
-  background-color: white;
   text-align: center;
   font-size: 2.4rem;
   border: none;
@@ -125,7 +182,160 @@ p.affwp-notice {
   text-transform: uppercase;
 }
 
-.main {
+body {
+  background: url('assets/img/background.jpg') top left repeat white;
+}
+
+.headerclass {
+  z-index: 100;
+  position: relative;
+  background: transparent;
+}
+
+.page-header {
+  border: none;
+}
+
+.contentclass, #pageheader > .container, #content > .row {
+  padding: 0;
+  background: white;
+
+}
+
+.affiliate-area body #containerfooter, .home body #containerfooter {
+  padding: 0;
+  height: 0;
+}
+
+.main, #pageheader .container {
   background: white;
   padding: 2rem;
+  border: solid 2px black;
+  border-bottom: none;
+
+}
+
+.kad-header-right.col-md-12 > #nav-main {
+  margin-top: 0;
+}
+
+.kad-header-right.col-md-12 > #nav-main .sf-menu li a {
+  font-style: normal;
+  font-size: 48px;
+  font-family: "Niagara Solid" !important;
+  display: inline-block;
+  padding: 2rem 4rem;
+  font-weight: normal;
+
+}
+
+.kad-header-right.col-md-12 > #nav-main .sf-menu li a:hover {
+  color: white;
+  background: black;
+}
+
+.kad-header-right.col-md-12 > #nav-main .sf-menu li {
+  display: inline-block;
+  float: none;
+  background: white;
+  border: black solid 4px;
+  margin: 0 1rem 2rem;
+  font-family: "Niagara Solid" !important;
+}
+
+.kad-header-right {
+  padding: 0 !important;
+
+}
+
+.home .homecontent .woocommerce {
+  /*max-width: 1000px;*/
+}
+
+#product_wrapper {
+  height: auto !important;
+
+}
+
+.rowtight {
+  /*max-width:1000%;*/
+}
+
+.owl-nav {
+
+  position: absolute;
+  top: -8.5rem;
+  right: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .owl-nav {
+    display: none;
+  }
+}
+
+.owl-prev, .owl-next {
+  font-size: 6rem;
+  float: left;
+  color: white;
+  background: #cccccc;
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  line-height: 6rem;
+  margin: 0 .25rem;
+}
+
+.affiliate-area .main, .home .main {
+  border: solid 4px black;
+  border-bottom: none;
+}
+
+footer#containerfooter {
+  background: black;
+  color: white;
+
+}
+
+.footernav ul, .footernav {
+  float: none;
+  text-align: center;
+}
+
+.footernav ul li {
+  float: none;
+  display: inline;
+}
+
+.footernav ul li a {
+  color: white !important;
+  display: inline;
+  font-size: 1rem;
+}
+
+.footercredits {
+  padding-top: 0;
+}
+
+.woocommerce-product-details__short-description p {
+  font-family: Lato, Helvetica !important;
+  margin: 2rem 0 3rem !important;
+}
+
+a#woo_pp_ec_button {
+  float: right;
+}
+
+.woocommerce .checkout .col-2 h3, .woocommerce-page .checkout .col-2 h3 {
+  clear: both;
+  float: none;
+}
+
+.input-checkbox {
+  width: auto;
+}
+
+.wc-proceed-to-checkout > a, .wcppec-checkout-buttons__separator, #woocommerce_affiliate_field {
+  display: none !important;
 }
