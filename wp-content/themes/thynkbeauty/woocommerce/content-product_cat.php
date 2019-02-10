@@ -2,26 +2,37 @@
 /**
  * The template for displaying product category thumbnails within loops
  *
- * This template can be overridden by copying it to yourtheme/woocommerce/content-product_cat.php.
+ * Override this template by copying it to yourtheme/woocommerce/content-product_cat.php
  *
- * HOWEVER, on occasion WooCommerce will need to update template files and you
- * (the theme developer) will need to copy the new files to your theme to
- * maintain compatibility. We try to do this as little as possible, but it does
- * happen. When this occurs the version of the template file will be bumped and
- * the readme will list any important changes.
- *
- * @see     https://docs.woocommerce.com/document/template-structure/
- * @author  WooThemes
- * @package WooCommerce/Templates
- * @version 2.6.1
+ * @author 		WooThemes
+ * @package 	WooCommerce/Templates
+ * @version     2.6.1
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+
+global $woocommerce_loop, $virtue;
+
+if ( empty( $woocommerce_loop['columns'] ) ) {
+	$woocommerce_loop['columns'] = apply_filters( 'loop_shop_columns', 4 );
+}
+
+if ($woocommerce_loop['columns'] == '3'){ 
+	$itemsize = 'tcol-md-4 tcol-sm-4 tcol-xs-6 tcol-ss-12'; 
+} else {
+	$itemsize = 'tcol-md-3 tcol-sm-4 tcol-xs-6 tcol-ss-12';
+}
+
+
+
 ?>
-<li <?php wc_product_cat_class( '', $category ); ?>>
-	<?php
+
+<div class="<?php echo esc_attr($itemsize); ?> kad_product">
+	<div <?php wc_product_cat_class('product-category grid_item', $category ); ?>>
+
+	<?php 
 	/**
 	 * woocommerce_before_subcategory hook.
 	 *
@@ -36,7 +47,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	 */
 	do_action( 'woocommerce_before_subcategory_title', $category );
 
-	/**
+     /**
 	 * woocommerce_shop_loop_subcategory_title hook.
 	 *
 	 * @hooked woocommerce_template_loop_category_title - 10
@@ -54,4 +65,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	 * @hooked woocommerce_template_loop_category_link_close - 10
 	 */
 	do_action( 'woocommerce_after_subcategory', $category ); ?>
-</li>
+
+	
+	</div>
+</div>

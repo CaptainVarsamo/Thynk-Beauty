@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'thyn3907106546');
+define('DB_NAME', 'thyn41414841995');
 
 /** MySQL database username */
-define('DB_USER', 'thyn3907106546');
+define('DB_USER', 'thyn41414841995');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'eXt{It.3T');
+define('DB_PASSWORD', 'GD@Byj@7');
 
 /** MySQL hostname */
-define('DB_HOST', 'thyn3907106546.db.3907106.hostedresource.com:3310');
+define('DB_HOST', 'thyn41414841995.db.41414841.813.hostedresource.net:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '8Dm0c6RR*9Ajq6E/5BKZ');
-define('SECURE_AUTH_KEY',  'B _%7VH)p#*IW6hF*@$7');
-define('LOGGED_IN_KEY',    '!$qs/gVw6S- dbwjxVBI');
-define('NONCE_KEY',        'FpXBdtUfk_@#XMRBbarg');
-define('AUTH_SALT',        '-n63AU6w(EPO/OcmDVWG');
-define('SECURE_AUTH_SALT', '*9Hk/WBzagr#b!t6Jw22');
-define('LOGGED_IN_SALT',   'f$0x%CA3ShPO8Q@DaT H');
-define('NONCE_SALT',       'Yz&A=MFFUbpqxC(G6HSP');
+define('AUTH_KEY',         'HXPY-kc8 RK$GNzJLnAY');
+define('SECURE_AUTH_KEY',  'QFhmCpTGV4)Z3d*nxAQY');
+define('LOGGED_IN_KEY',    'GES5UZVUTVr2)Q&jGyVX');
+define('NONCE_KEY',        '4Jx=NvS%6kgvVtg!3#R ');
+define('AUTH_SALT',        '6Zp*V)Ut%Mfafq!tNbGH');
+define('SECURE_AUTH_SALT', 'Xa1#vh(5n*Ipctq+H-Yq');
+define('LOGGED_IN_SALT',   '((m*a0-PtH/X@ZQ$Jw/T');
+define('NONCE_SALT',       'xza*p-kbFh_+ rzWHGWL');
 
 /**#@-*/
 
@@ -63,7 +63,7 @@ define('NONCE_SALT',       'Yz&A=MFFUbpqxC(G6HSP');
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_bf1z1za98r_';
+$table_prefix  = 'wp_xtm487z9bz_';
 
 /**
  * For developers: WordPress debugging mode.
@@ -77,7 +77,8 @@ $table_prefix  = 'wp_bf1z1za98r_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
+define('WP_DEBUG_DISPLAY', true);
 //define( 'WP_CACHE', true );
 require_once( dirname( __FILE__ ) . '/gd-config.php' );
 define( 'FS_METHOD', 'direct');

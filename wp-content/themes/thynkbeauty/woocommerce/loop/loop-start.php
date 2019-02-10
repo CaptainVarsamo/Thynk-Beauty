@@ -2,18 +2,24 @@
 /**
  * Product Loop Start
  *
- * This template can be overridden by copying it to yourtheme/woocommerce/loop/loop-start.php.
- *
- * HOWEVER, on occasion WooCommerce will need to update template files and you
- * (the theme developer) will need to copy the new files to your theme to
- * maintain compatibility. We try to do this as little as possible, but it does
- * happen. When this occurs the version of the template file will be bumped and
- * the readme will list any important changes.
- *
- * @see 	    https://docs.woocommerce.com/document/template-structure/
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version     2.0.0
+ * @version     3.3.0
  */
-?>
-<ul class="products">
+
+	if ( version_compare( WC_VERSION, '3.3', '>' ) ) {
+		$product_columns =  wc_get_loop_prop( 'columns' );
+	} else {
+		global $woocommerce_loop;
+		if ( empty( $woocommerce_loop['columns'] ) ) {
+		 	$woocommerce_loop['columns'] = apply_filters( 'loop_shop_columns', 4 );
+		}
+		$product_columns = $woocommerce_loop['columns'];
+	}
+	if ( virtue_display_sidebar() ) {
+		$columns = "shopcolumn".$product_columns." shopsidebarwidth"; 
+	} else {
+		$columns = "shopcolumn".$product_columns." shopfullwidth"; 
+	}
+	?>
+<div id="product_wrapper" class="products kt-masonry-init rowtight <?php echo esc_attr($columns); ?>" data-masonry-selector=".kad_product">

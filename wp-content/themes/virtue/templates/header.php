@@ -89,3 +89,16 @@
       </div>
   <?php } ?>
 </header>
+
+
+
+
+<div class="hoverable-cta">
+  <div class="cta"><a href="#"><img class="aligncenter size-full wp-image-1576" src="/wp-content/uploads/2018/07/cta-1.jpg" alt="" width="385" height="200" /><span>Body Butter</span></a></div>
+  <div class="cta"><a href="#"><img class="aligncenter size-large wp-image-1577" src="/wp-content/uploads/2018/07/cta-2.jpg" alt="" width="385" height="200" /><span> Bath Bombs</span></a></div>
+  <div class="cta"><a href="#"><img class="aligncenter size-large wp-image-1578" src="/wp-content/uploads/2018/07/cta-3.jpg" alt="" width="385" height="200" /><span>Essential Oils</span></a></div>
+  <div class="cta"><a href="#"><img class="aligncenter size-large wp-image-1579" src="/wp-content/uploads/2018/07/cta-4.jpg" alt="" width="385" height="200" /><span> Candles</span></a></div>
+  <div class="cta"><a href="#"><img class="aligncenter size-large wp-image-1580" src="/wp-content/uploads/2018/07/cta-5.jpg" alt="" width="385" height="200" /><span>Lip Balm</span></a></div>
+  <div class="cta"><a href="#"> <img class="aligncenter size-large wp-image-1581" src="/wp-content/uploads/2018/07/cta-6.jpg" alt="" width="385" height="200" /><span>Mind &amp; Body</span></a></div>
+</div>
+</div>

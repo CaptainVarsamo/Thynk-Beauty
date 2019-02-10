@@ -18,3 +18,31 @@ remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_r
 remove_action( 'woocommerce_cart_collaterals', 'woocommerce_cross_sell_display');
 
 add_action('wp_enqueue_scripts', 'thynkbeauty_enqueue_styles');
+remove_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop_rating', 5 );
+
+add_filter( 'woocommerce_product_tabs', 'wcs_woo_remove_reviews_tab', 98 );    function wcs_woo_remove_reviews_tab($tabs) {    unset($tabs['reviews']);    return $tabs;}
+
+add_filter( 'woocommerce_product_tabs', 'woo_rename_tab', 98);
+function woo_rename_tab($tabs) {
+  $tabs['description']['title'] = 'Principle';
+  return $tabs;
+}
+
+// Hide trailing zeros on prices.
+add_filter( 'woocommerce_price_trim_zeros', 'wc_hide_trailing_zeros', 10, 1 );
+function wc_hide_trailing_zeros( $trim ) {
+
+  return true;
+
+}
+
+
+
+add_action( 'woocommerce_no_products_found', function(){
+  remove_action( 'woocommerce_no_products_found', 'wc_no_products_found', 10 );
+
+  // HERE change your message below
+  $message = __( 'No products were found matching your selection.', 'woocommerce' );
+
+  echo '<p class="woocommerce-info">' . $message .'</p>';
+}, 9 );
